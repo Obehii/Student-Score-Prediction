@@ -1,6 +1,6 @@
 # Student-Score-Prediction
 
-## Author : Ibhagbosoria Blessing Eboselume
+## Author : Ibhagbosoria Blessing
 
 ## SPARK FOUNDATION INTERNSHIP: Data Science and Business Analytics Intern
 
